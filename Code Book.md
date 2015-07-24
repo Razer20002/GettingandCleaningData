@@ -2,11 +2,17 @@ Data Dictionary - Samsung accelerometer data sets
 
 Exercise  Category list
           Describes exercise undertaken by subject during data collection.
+         
           1 WALKING
+         
           2 WALKING_UPSTAIRS
+         
           3 WALKING_DOWNSTAIRS
+         
           4 SITTING
+         
           5 STANDING
+         
           6 LAYING
 
 
