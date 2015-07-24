@@ -22,6 +22,7 @@ Subject   Identification number
           For more informtation on how the data was initially gathered please see the end of the transcript.  
           
 "1 tBodyAcc-mean()-X"
+
 "2 tBodyAcc-mean()-Y"
 "3 tBodyAcc-mean()-Z"
 "41 tGravityAcc-mean()-X"
